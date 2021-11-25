@@ -7,3 +7,11 @@ This paper focuses on investigating consumer tracking in public spaces through t
 1. Beacon data + GPS locations data collection using Android based apps
 2. Industry/Company Research for identification of beacon manufacturing companies and the unique identifiers in their products.
 3. Supporting Datasets/APIs
+## Methodology
+1. Research on Technology and Manufacturing Companies
+2. Data Collection Feasibility Checks and Testing
+3. Large scale data collection
+4. Data processing
+5. Analysis and Visualizations
+6. Data Ethics and Privacy Considerations
+## Our website
